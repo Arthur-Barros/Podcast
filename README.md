@@ -6,7 +6,7 @@ Podcastr Desenvolvido na NLW#5
 
 ### :movie_camera: Visualização
 <h1>
-  <img src="https://ik.imagekit.io/xlj9cejf8v/trabalhocpw2_glb2NbmwO.gif" alt=" Trabalho cpw2">
+  <img src="https://ik.imagekit.io/xlj9cejf8v/Podcastr_FrfywM3Hq.png" alt=" Trabalho cpw2">
 </h1>
 ---
 
