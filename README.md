@@ -11,7 +11,7 @@ Podcastr Desenvolvido na NLW#5
 ---
 
 ## :computer: Indice
-- [Sobre](#sobre) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Como utilizar](#como-utilizar) | [Como rodar a aplicação](#como-rodar-a-aplicação)
+- [Sobre](sobre) | [Tecnologias utilizadas](tecnologias-utilizadas) | [Como utilizar](#como-utilizar) | [Como rodar a aplicação](#como-rodar-a-aplicação)
 
 ---
 
