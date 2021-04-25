@@ -11,7 +11,7 @@ Podcastr Desenvolvido na NLW#5
 ---
 
 ## :computer: Indice
-- [Sobre](sobre) | [Tecnologias utilizadas](tecnologias-utilizadas) | [Como utilizar](#como-utilizar) | [Como rodar a aplicação](#como-rodar-a-aplicação)
+- [Sobre](#bookmark-sobre) | [Tecnologias utilizadas](#rocket-tecnologias-utilizadas) | [Como utilizar](#electric_plug-como-utilizar) | [Como rodar a aplicação](#file_folder-como-rodar-a-aplicação)
 
 ---
 
@@ -58,4 +58,4 @@ $ yarn dev
 ```
 ---
 
-Desenvolvido por **Arthur Barros** [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
+Desenvolvido por :purple_heart: **Arthur Barros** :email: [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
