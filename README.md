@@ -1,4 +1,4 @@
-## Trabalhocpw2--2
+## Podcastr
 
 <h1 align="center">
 Podcastr Desenvolvido na NLW#5
